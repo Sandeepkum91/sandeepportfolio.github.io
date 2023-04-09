@@ -1,0 +1,128 @@
+.bar-color-html{
+    width: 23vw;
+    height: 13px;
+    border-radius: 10px;
+    background-color: aqua;
+}
+.bar-color-CSS{
+    width: 24vw;
+    height: 13px;
+    border-radius: 10px;
+    background-color: aqua;
+}
+
+.bar-color-js{
+    width: 19vw;
+    height: 13px;
+    border-radius: 10px;
+    background-color: aqua;
+}
+.bar-color-c{
+    width: 19vw;
+    height: 13px;
+    border-radius: 10px;
+    background-color: aqua;
+}
+.bar-color-boot{
+    width: 21vw;
+    height: 13px;
+    border-radius: 10px;
+    background-color: aqua;
+
+}
+.bar-color-react{
+    width: 16vw;
+    height: 13px;
+    border-radius: 10px;
+    background-color: aqua;
+}
+.bar-color-node{
+    width: 5vw;
+    height: 13px;
+    border-radius: 10px;
+    background-color: aqua;
+}
+.bar-color-github{
+    width: 20vw;
+    height: 13px;
+    border-radius: 10px;
+    background-color: aqua;
+}
+.bar-color-googleC{
+    width: 9vw;
+    height: 13px;
+    border-radius: 10px;
+    background-color: aqua;
+}
+
+.bar-color-VS{
+    width: 22vw;
+    height: 13px;
+    border-radius: 10px;
+    background-color: aqua;
+}
+
+.bar-color-hindi{
+    width: 28vw;
+    height: 13px;
+    border-radius: 10px;
+    background-color: aqua;
+
+}
+.bar-color-english{
+    width: 20vw;
+    height: 13px;
+    border-radius: 10px;
+    background-color: aqua;
+}
+@media(max-width:550px)
+{
+    .bar-color-html{
+        width: 49vw;
+    }
+    .bar-color-CSS{
+        width: 50vw;
+    }
+    .bar-color-js{
+        width: 33vw;
+    }
+
+        .bar-color-c
+        {
+            width: 36vw;
+        }
+
+        .bar-color-boot{
+            width: 47vw;
+        }
+        .bar-color-react{
+            width: 16vw;
+        }
+
+        .bar-color-node{
+            width: 5vw;
+        }
+
+        .bar-color-github{
+            width: 45vw;
+        }
+        .bar-color-googleC{
+            width: 20vw;
+        
+        }
+        
+        .bar-color-VS{
+            width: 50vw;
+           
+        }
+        
+        .bar-color-hindi{
+            width: 63vw;
+           
+        
+        }
+        .bar-color-english{
+            width: 48vw;
+            
+        }
+}
