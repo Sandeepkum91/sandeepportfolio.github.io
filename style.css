@@ -239,7 +239,7 @@ footer {
 /* code for cross button */
 
 #check:checked~ #checkbtn i:before{
-    content: "\f00d";
+   content: "\f00d";
 }
 
 
