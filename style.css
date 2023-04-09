@@ -236,6 +236,13 @@ footer {
     display: none;
 }
 
+/* code for cross button */
+
+#check:checked~ #checkbtn i:before{
+    content: "\f00d";
+}
+
+
 #check:checked~ul {
     margin-left: 0px;
     transition: .5s;
